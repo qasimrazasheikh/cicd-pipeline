@@ -1,0 +1,8 @@
+<component name="DependencyValidationManager">
+  <state>
+    <unnamed_scope value="ext[Maven: org.springframework.security:spring-security-core:6.0.1]:org/springframework/security/provisioning//*" />
+    <unnamed_scope value="file[spring-security-latest]:*/" />
+    <deny_rule from_scope="file[spring-security-latest]:*/" to_scope="ext[Maven: org.springframework.security:spring-security-core:6.0.1]:org/springframework/security/provisioning//*" is_deny="true" />
+    <deny_rule from_scope="file[spring-security-latest]:*/" to_scope="ext[Maven: org.springframework.security:spring-security-core:6.0.1]:org/springframework/security/provisioning//*" is_deny="true" />
+  </state>
+</component>
